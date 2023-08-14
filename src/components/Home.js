@@ -6,9 +6,6 @@ export default function Home() {
         <nav>
             <ul className='header'>
                 <li>Home</li>
-                <li>Home</li>
-                <li>Home</li>
-
             </ul>
         </nav>
     </header>
